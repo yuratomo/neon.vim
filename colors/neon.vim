@@ -36,7 +36,7 @@ hi Error	guifg=Red	guibg=black	gui=none
 hi LineNr	guifg=#2060A0	guibg=#000030	gui=none
 hi Cursor	guifg=white	guibg=Red	gui=none
 hi CursorIM	guifg=white	guibg=#1dc4a2	gui=bold
-hi CursorLine	guifg=fg	guibg=#303030	gui=none
+hi CursorLine	                guibg=#101030	gui=none
 hi CursorColumn	guifg=fg	guibg=#202020	gui=bold
 hi DiffAdd	guifg=fg	guibg=#0039ad	gui=none
 hi DiffChange	guifg=fg	guibg=#00297d	gui=none
