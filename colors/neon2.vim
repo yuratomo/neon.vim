@@ -37,7 +37,7 @@ hi LineNr	guifg=#2060A0	guibg=#000030	gui=none
 hi Cursor	guifg=white	guibg=Red	gui=none
 hi Cursor	guifg=white	guibg=Red	gui=none
 hi CursorIM	guifg=white	guibg=#1dc4a2	gui=bold
-hi CursorLine	                guibg=#000000	gui=bold
+hi CursorLine	                guibg=NONE   	gui=bold
 hi CursorLineNr	guifg=white	guibg=#002f9f	gui=none
 hi CursorColumn			guibg=#000000	gui=bold
 hi DiffAdd	guifg=fg	guibg=#0039ad	gui=none
